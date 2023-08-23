@@ -1,2 +1,2 @@
-# CRISPRscreening
-scripts and codings in lab project
+# wetlab_tools
+scripts used in wetlab data processing
